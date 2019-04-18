@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortHelper", "PortHelper\PortHelper.csproj", "{20286A9F-56B5-45A1-B42B-49DFD1D08559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "关闭端口小工具", "..\ClosePortsGadgets\关闭端口小工具.csproj", "{388B1D47-9688-4253-9CBE-9331AB265FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20286A9F-56B5-45A1-B42B-49DFD1D08559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20286A9F-56B5-45A1-B42B-49DFD1D08559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20286A9F-56B5-45A1-B42B-49DFD1D08559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20286A9F-56B5-45A1-B42B-49DFD1D08559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388B1D47-9688-4253-9CBE-9331AB265FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388B1D47-9688-4253-9CBE-9331AB265FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388B1D47-9688-4253-9CBE-9331AB265FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388B1D47-9688-4253-9CBE-9331AB265FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD694A84-6BC0-475C-BE74-7509AA23F0BD}
+	EndGlobalSection
+EndGlobal
